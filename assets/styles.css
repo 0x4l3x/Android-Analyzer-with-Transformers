@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.accordion-button{
+    font-size: large;   
+
+}
+
+.accordion-button:not(.collapsed){
+    background-color: rgb(255, 255, 255);
+    box-shadow : none;
+
+}
+
+.accordion-button:focus{
+    border-color: white;
+    box-shadow: none;
+}
