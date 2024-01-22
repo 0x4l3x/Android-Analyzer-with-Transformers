@@ -1,4 +1,4 @@
-# Bachelor Thesis: Android Application Analysis with Machine Learning Transformers
+# Bachelor Thesis - Android Application Analysis with Machine Learning Transformers
 
 ## Overview
 
